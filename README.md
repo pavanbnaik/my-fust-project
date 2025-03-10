@@ -1,2 +1,2 @@
-# my-fust-project
+# my-first-project
 software app
